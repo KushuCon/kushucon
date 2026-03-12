@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaustubh%20Consul&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Blockchain%20·%20AI%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaustubh%20Consul&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Video%20Editor%20·%20AI%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://kaustubhconsul.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Crafting+smart+contracts+on+Ethereum+%E2%9B%93;Automating+workflows+with+AI+%F0%9F%A4%96;Exploring+Blockchain+%2B+Web3+%F0%9F%94%97;Open+to+exciting+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Cutting+%26+crafting+videos+that+hit+%F0%9F%8E%AC;Automating+workflows+with+AI+%F0%9F%A4%96;Shipping+ideas+into+reality+%E2%9A%A1;Open+to+exciting+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,21 +20,40 @@
 
 ---
 
-## 👾 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:12px"/>
 
 ```typescript
 const kaustubh = {
-  name:       "Kaustubh Consul",
-  alias:      "KC / KushuCon",
-  location:   "Jaipur, India 🇮🇳",
-  degree:     "B.Tech IT @ SKIT (Expected 2026) — CGPA: 8.04",
-  role:       "Full-Stack Developer · Blockchain Dev · AI Enthusiast",
-  passion:    ["Scalable Systems", "Decentralized Tech", "AI Automation"],
-  currentlyBuilding: "Molecule AI — automation for disease research",
-  funFact:    "I think in systems. I build in code. I ship in weeks.",
-  contact:    "kushucon@gmail.com",
+  name        : "Kaustubh Consul",
+  alias       : "KC  ⚡",
+  from        : "Jaipur, India 🇮🇳",
+  education   : "B.Tech IT @ SKIT '26 — CGPA 8.04",
+
+  roles: [
+    "🧑‍💻 Full-Stack Developer",
+    "🎬 Video Editor",
+    "🤖 AI Automation Builder",
+  ],
+
+  currentlyBuilding : "🧬 Molecule AI",
+  funFact     : "I think in systems. I ship in weeks.",
+
+  passions: [
+    "⚡ Scalable Systems",
+    "🎬 Motion & Visual Storytelling",
+    "🤖 AI-Driven Automation",
+    "📖 Finance & Non-Fiction",
+    "⚽ Football Analytics",
+  ],
+
+  openTo      : ["Collabs", "Freelance", "SDE Roles"],
+  contact     : "kushucon@gmail.com",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -68,36 +87,7 @@ const kaustubh = {
 
 </div>
 
----
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="120" align="center"><b>Jul–Aug 2025</b></td>
-<td>
-<b>⛓️ Blockchain Developer Intern @ BlockSEBlock</b> · Ludhiana<br/>
-▹ Engineered a full-stack RWA tokenization platform for physical land minting — 100+ simulated assets, secure P2P trading<br/>
-▹ Authored gas-optimized Ethereum smart contracts in Solidity · <code>-12% transaction costs</code> · <code>100% tamper-proof</code>
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>Jun–Jul 2024</b></td>
-<td>
-<b>🌐 Full Stack Web Developer Intern @ Groot Technologies</b> · Jaipur<br/>
-▹ Developed and maintained full-stack web applications using modern frameworks<br/>
-▹ Delivered scalable, production-ready solutions in a collaborative team environment
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>Sep–Oct 2023</b></td>
-<td>
-<b>🔌 IoT Intern @ SKIT</b> · Jaipur<br/>
-▹ Designed IoT Smart Home security solutions in Python · <code>-30% manual monitoring</code><br/>
-▹ Optimized network protocols with a 4-member team · <code>-20% system latency</code>
-</td>
-</tr>
-</table>
 
 ---
 
