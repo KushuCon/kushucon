@@ -189,7 +189,7 @@ Building automation molecules to assist research workflows and accelerate cure d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushuCon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushuCon&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushuCon&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushuCon&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
@@ -213,8 +213,17 @@ Building automation molecules to assist research workflows and accelerate cure d
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushuCon&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<!-- Full-Year Contribution Calendar -->
+<img src="https://ghchart.rshah.org/7c3aed/KushuCon" width="100%" alt="GitHub Contribution Chart"/>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushuCon/KushuCon/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushuCon/KushuCon/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KushuCon/KushuCon/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 <br/>
 
